@@ -1,5 +1,10 @@
 body {
-  background-color: powderblue;
+  background-color: hsl(218, 28%, 13%);
+  max-width: 1440px;
+  min-width: 375px;
+  Font size: 14px;
+  font-Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+  Weights: 400, 700;
 }
 h1 {
   color: blue;
